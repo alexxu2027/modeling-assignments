@@ -1,7 +1,7 @@
 # Modeling assignments
 
 Three individual model assignments. Each folder holds its data, the brief, and one
-plain Python script, `fit.py`, that reproduces every number on the slides.
+plain Python script, `fit.py`, that fits the model and prints every result.
 
 | Folder | Model | Question | Data |
 | --- | --- | --- | --- |
